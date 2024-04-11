@@ -91,7 +91,7 @@ body {
     background-color: #4b77d4;
 }
 
-#facebook-login {
+#facebook-login p {
     font-weight: 800;
     color: white;
     width: 70%;
@@ -117,6 +117,7 @@ body {
 #google-login img {
     width: 30px; /* Defina o tamanho desejado */
 }
+
 
 #google-login p {
     position: absolute;
@@ -155,3 +156,4 @@ body {
     background-color: red;
     color: white;
 }
+
